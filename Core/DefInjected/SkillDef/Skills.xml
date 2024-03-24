@@ -85,7 +85,18 @@
     <li>subject->carpentry</li>
     <li>subject->infrastructure</li>
   -->
-  <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
+  <Construction.generalRules.rulesStrings>
+    <li>subject->建造</li>
+    <li>subject->建築物</li>
+    <li>subject->建築學</li>
+    <li>subject->工程</li>
+    <li>subject->設計</li>
+    <li>subject->翻新</li>
+    <li>subject->結構</li>
+    <li>subject->地基</li>
+    <li>subject->木工</li>
+    <li>subject->基建</li>
+  </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>建造</Construction.skillLabel>
   
@@ -108,7 +119,21 @@
     <li>subject->sauces</li>
     <li>subject->meals</li>
   -->
-  <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->料理</li>
+    <li>subject->食物</li>
+    <li>subject->烘焙</li>
+    <li>subject->菜式</li>
+    <li>subject->食譜</li>
+    <li>subject->食饗</li>
+    <li>subject->風味</li>
+    <li>subject->材料</li>
+    <li>subject->香料</li>
+    <li>subject->營養</li>
+    <li>subject->味道</li>
+    <li>subject->醬汁</li>
+    <li>subject->餐點</li>
+  </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>料理</Cooking.skillLabel>
   
@@ -127,7 +152,17 @@
     <li>subject->machining</li>
     <li>subject->artisanry</li>
   -->
-  <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->手工</li>
+    <li>subject->裝配</li>
+    <li>subject->製造</li>
+    <li>subject->手藝</li>
+    <li>subject->合成</li>
+    <li>subject->生產</li>
+    <li>subject->技藝</li>
+    <li>subject->加工</li>
+    <li>subject->工匠</li>
+  </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>手工</Crafting.skillLabel>
   
@@ -160,7 +195,29 @@
     <li>subject->research methods</li>
     <li>subject->intellectual inquiry</li>
   -->
-  <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->物理</li>
+    <li>subject->化學</li>
+    <li>subject->軌道動力學</li>
+    <li>subject->數學</li>
+    <li>subject->生物學</li>
+    <li>subject->科學</li>
+    <li>subject->研究</li>
+    <li>subject->創新</li>
+    <li>subject->發現</li>
+    <li>subject->分析</li>
+    <li>subject->實驗</li>
+    <li>subject->知識</li>
+    <li>subject->探索</li>
+    <li>subject->數據分析</li>
+    <li>subject->科學探究</li>
+    <li>subject->知識成長</li>
+    <li>subject->學術追求</li>
+    <li>subject->定量分析</li>
+    <li>subject->實驗設計</li>
+    <li>subject->研究方法</li>
+    <li>subject->知識探究</li>
+  </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>知識</Intellectual.skillLabel>
   
@@ -192,7 +249,29 @@
     <li>subject->virology</li>
     <li>subject->health sciences</li>
   -->
-  <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->藥物</li>
+    <li>subject->手術</li>
+    <li>subject->細菌</li>
+    <li>subject->皮膚修復</li>
+    <li>subject->保健</li>
+    <li>subject->醫學</li>
+    <li>subject->生理</li>
+    <li>subject->藥理</li>
+    <li>subject->治療</li>
+    <li>subject->診斷</li>
+    <li>subject->手術</li>
+    <li>subject->解剖學</li>
+    <li>subject->病理</li>
+    <li>subject->疾病管理</li>
+    <li>subject->病人照護</li>
+    <li>subject->急救藥物</li>
+    <li>subject->護理</li>
+    <li>subject->醫藥研究</li>
+    <li>subject->公共衛生</li>
+    <li>subject->病毒學</li>
+    <li>subject->健康科學</li>
+  </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
   <Medicine.skillLabel>醫療</Medicine.skillLabel>
   
@@ -213,7 +292,19 @@
     <li>subject->knighthood</li>
     <li>subject->dueling</li>
   -->
-  <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
+  <Melee.generalRules.rulesStrings>
+    <li>subject->打架</li>
+    <li>subject->格鬥</li>
+    <li>subject->對戰</li>
+    <li>subject->武術</li>
+    <li>subject->劍術</li>
+    <li>subject->武器</li>
+    <li>subject->毆鬥</li>
+    <li>subject->拳擊</li>
+    <li>subject->擊劍</li>
+    <li>subject->騎士精神</li>
+    <li>subject->決鬥</li>
+  </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>格鬥</Melee.skillLabel>
   
@@ -236,7 +327,21 @@
     <li>subject->geology</li>
     <li>subject->earthmoving</li>
   -->
-  <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
+  <Mining.generalRules.rulesStrings>
+    <li>subject->採礦</li>
+    <li>subject->挖掘</li>
+    <li>subject->採石</li>
+    <li>subject->露天開採</li>
+    <li>subject->發掘</li>
+    <li>subject->勘探</li>
+    <li>subject->礦石</li>
+    <li>subject->隧道</li>
+    <li>subject->鑽孔</li>
+    <li>subject->礦物質</li>
+    <li>subject->寶石學</li>
+    <li>subject->地質學</li>
+    <li>subject->土方工程</li>
+  </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>採礦</Mining.skillLabel>
   
@@ -263,7 +368,25 @@
     <li>subject->food production</li>
     <li>subject->crop science</li>
   -->
-  <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
+  <Plants.generalRules.rulesStrings>
+    <li>subject->種植</li>
+    <li>subject->草藥</li>
+    <li>subject->蔬菜</li>
+    <li>subject->植物區系</li>
+    <li>subject->栽培</li>
+    <li>subject->園藝</li>
+    <li>subject->農業</li>
+    <li>subject->花園</li>
+    <li>subject->耕種</li>
+    <li>subject->收穫</li>
+    <li>subject->永續農業</li>
+    <li>subject->植物學</li>
+    <li>subject->作物管理</li>
+    <li>subject->土壤富集</li>
+    <li>subject->有機農業</li>
+    <li>subject->食品生產</li>
+    <li>subject->作物科學</li>
+  </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>種植</Plants.skillLabel>
   
@@ -291,7 +414,26 @@
     <li>subject->gun handling</li>
     <li>subject->distance shooting</li>
   -->
-  <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->槍</li>
+    <li>subject->武器</li>
+    <li>subject->瞄準</li>
+    <li>subject->射擊</li>
+    <li>subject->槍戰</li>
+    <li>subject->槍法</li>
+    <li>subject->槍枝</li>
+    <li>subject->狙擊</li>
+    <li>subject->彈道學</li>
+    <li>subject->遠程對戰</li>
+    <li>subject->精準射擊</li>
+    <li>subject->步槍精通</li>
+    <li>subject->打靶</li>
+    <li>subject->神槍手</li>
+    <li>subject->遠程戰術</li>
+    <li>subject->打點控制</li>
+    <li>subject->槍支處理</li>
+    <li>subject->遠距離射擊</li>
+  </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>射擊</Shooting.skillLabel>
   
@@ -318,7 +460,25 @@
     <li>subject->emotional intelligence</li>
     <li>subject->communication skills</li>
   -->
-  <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
+  <Social.generalRules.rulesStrings>
+    <li>subject->溝通</li>
+    <li>subject->人際網絡</li>
+    <li>subject->解決衝突</li>
+    <li>subject->合作</li>
+    <li>subject->領導</li>
+    <li>subject->同理心</li>
+    <li>subject->談判</li>
+    <li>subject->交易</li>
+    <li>subject->傾聽</li>
+    <li>subject->外交</li>
+    <li>subject->團隊合作</li>
+    <li>subject->禮儀</li>
+    <li>subject->魅力</li>
+    <li>subject->社會智力</li>
+    <li>subject->自信</li>
+    <li>subject->情商</li>
+    <li>subject->溝通技巧</li>
+  </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>社交</Social.skillLabel>
   
