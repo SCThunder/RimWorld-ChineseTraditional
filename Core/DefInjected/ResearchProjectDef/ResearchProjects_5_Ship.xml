@@ -17,17 +17,17 @@
     <li>subject_gerund->constructing starship structures</li>
   -->
   <ShipBasics.generalRules.rulesStrings>
-    <li>subject->starship structural engineering</li>
-    <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
-    <li>subject_story->was a structural designer in an urbworld skyripper district</li>
-    <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
-    <li>subject_gerund->constructing starship structures</li>
+    <li>subject->星艦結構工程</li>
+    <li>subject_story->為閃耀世界艦隊招募星艦工程師</li>
+    <li>subject_story->曾是都市世界破天者區的結構設計師</li>
+    <li>subject_story->在死亡世界的碎片帶中回收失事艦隻</li>
+    <li>subject_gerund->建造星艦結構</li>
   </ShipBasics.generalRules.rulesStrings>
   
   <!-- EN: machine persuasion -->
   <ShipComputerCore.label>機械核心</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>建造擁有神經機動系統的機械核心作為星艦艦長。由於人們在長達數萬年的星際旅行時需要休眠，因此必須要由機械核心來打理好一切事物。</ShipComputerCore.description>
+  <ShipComputerCore.description>建造獎賞回饋系統來說服現成的人格核心擔當星艦艦長。由於人們在長達數萬年的星際旅行時需要休眠，因此必須要由機械核心來打理好一切事物。</ShipComputerCore.description>
   <!-- EN:
     <li>subject->persona core incentivization</li>
     <li>subject->starship AI sanity maintenance</li>
@@ -39,14 +39,14 @@
     <li>subject_gerund->constructing reward-signal systems</li>
   -->
   <ShipComputerCore.generalRules.rulesStrings>
-    <li>subject->persona core incentivization</li>
-    <li>subject->starship AI sanity maintenance</li>
-    <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
-    <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
-    <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
-    <li>subject_gerund->incentivizing persona cores</li>
-    <li>subject_gerund->maintaining starship AI sanity</li>
-    <li>subject_gerund->constructing reward-signal systems</li>
+    <li>subject->人格核心的刺激</li>
+    <li>subject->星艦人工智慧理智的維持</li>
+    <li>subject_story->經過仔細整修，重新掌控了一艘異常的星艦核心</li>
+    <li>subject_story->建立殖民地管理模擬，讓星艦的核心在多年的星際旅行中有所工作</li>
+    <li>subject_story->在一次「短途」星際旅行中仍然讓星艦核心伴行，在此過程中了解到很多關於核心的知識</li>
+    <li>subject_gerund->刺激人格核心</li>
+    <li>subject_gerund->維持星艦人工智慧的理智</li>
+    <li>subject_gerund->建造獎賞回饋系統</li>
   </ShipComputerCore.generalRules.rulesStrings>
   
   <!-- EN: vacuum cryptosleep casket -->
@@ -61,11 +61,11 @@
     <li>subject_gerund->constructing hardened cryptosleep caskets</li>
   -->
   <ShipCryptosleep.generalRules.rulesStrings>
-    <li>subject->starship-grade cryptosleep caskets</li>
-    <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
-    <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
-    <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
-    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+    <li>subject->星艦級休眠艙</li>
+    <li>subject_story->更換了CMC Celeste上故障的休眠艙，讓這舊型號的星艦可以被再次使用</li>
+    <li>subject_story->意外被彈射至深空，靠著自行設計的休眠艙裡撐了兩個月</li>
+    <li>subject_story->講述行星級和星艦級設備的差異</li>
+    <li>subject_gerund->建造強化休眠艙</li>
   </ShipCryptosleep.generalRules.rulesStrings>
   
   <!-- EN: Johnson-Tanaka drive -->
@@ -81,12 +81,12 @@
     <li>subject_gerund->constructing starship drives</li>
   -->
   <ShipEngine.generalRules.rulesStrings>
-    <li>subject->Johnson-Tanaka theory</li>
-    <li>subject->exotic momentum transfer</li>
-    <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
-    <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
-    <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
-    <li>subject_gerund->constructing starship drives</li>
+    <li>subject->Johnson-Tanaka理論</li>
+    <li>subject->奇異的動量轉移</li>
+    <li>subject_story->在大學傳授Johnson、Tanaka和量子效應</li>
+    <li>subject_story->根據論文的第一原理建構了Johnson-Tanaka驅動裝置</li>
+    <li>subject_story->當星艦在星際之間航行時，保養了二十年的Johnson-Tanaka驅動裝置</li>
+    <li>subject_gerund->建造星艦驅動裝置</li>
   </ShipEngine.generalRules.rulesStrings>
   
   <!-- EN: starship reactor -->
@@ -101,11 +101,11 @@
     <li>subject_gerund->constructing starship reactors</li>
   -->
   <ShipReactor.generalRules.rulesStrings>
-    <li>subject->starship nuclear reactor</li>
-    <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
-    <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
-    <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
-    <li>subject_gerund->constructing starship reactors</li>
+    <li>subject->星艦核能反應爐</li>
+    <li>subject_story->為一艘殖民星艦建造了一個新反應爐，但沒能活著看到它升空</li>
+    <li>subject_story->在反應爐起動時保衛星艦，抵禦急於離開世界的襲擊者</li>
+    <li>subject_story->使用星艦反應爐作為埋在星球冰蓋下的基因庫的備用電源</li>
+    <li>subject_gerund->建造星艦反應爐</li>
   </ShipReactor.generalRules.rulesStrings>
   
   <!-- EN: starflight sensors -->
@@ -121,12 +121,12 @@
     <li>subject_gerund->constructing starship sensors</li>
   -->
   <ShipSensorCluster.generalRules.rulesStrings>
-    <li>subject->interstellar navigation</li>
-    <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
-    <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
-    <li>subject_story->refined the design of long-range sensors, improving their utility</li>
-    <li>subject_gerund->navigating interstellar space</li>
-    <li>subject_gerund->constructing starship sensors</li>
+    <li>subject->星際領航</li>
+    <li>subject_story->使用原型星艦感測器來偵測即將到來的滅絕級小行星並疏散星球人民</li>
+    <li>subject_story->被聘為閃耀世界星際遊艇的領航員和廚師</li>
+    <li>subject_story->改善了遠程感測器的設計，提高了其實用性</li>
+    <li>subject_gerund->在星際空間領航</li>
+    <li>subject_gerund-建造星艦感測器</li>
   </ShipSensorCluster.generalRules.rulesStrings>
   
 </LanguageData>

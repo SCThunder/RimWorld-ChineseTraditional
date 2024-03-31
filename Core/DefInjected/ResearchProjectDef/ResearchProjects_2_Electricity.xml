@@ -180,7 +180,7 @@
     <li>subject_story->為管理城市的民兵提供防彈衣物</li>
     <li>subject_story->學會了將金屬板縫在衣服上，以保護親人免受流氓團伙的侵害</li>
     <li>subject_story->被步槍子彈射中卻得而倖免，因為胸前口袋縫了一塊金屬板</li>
-    <li>subject_gerund->製造防彈衣物</li>
+    <li>subject_gerund->製作防彈衣物</li>
   </FlakArmor.generalRules.rulesStrings>
   
   <!-- EN: foam turret -->
@@ -224,7 +224,7 @@
     <li>subject_story->為暴君的親衛隊中的特殊武器小隊配備輕機槍</li>
     <li>subject_story->為多個行星軍隊提供重型武器</li>
     <li>subject_story->設計了新型高火力槍械，至今仍為人所知</li>
-    <li>subject_gerund->製造重型槍械</li>
+    <li>subject_gerund->製作重型槍械</li>
   </GasOperation.generalRules.rulesStrings>
   
   <!-- EN: geothermal power -->
@@ -263,7 +263,7 @@
   <Gunsmithing.generalRules.rulesStrings>
     <li>subject->簡易槍械</li>
     <li>subject_story->打造了一把獨特的12發左輪手槍並在一場又一場的槍戰決鬥中獲勝</li>
-    <li>subject_story->專門從事簡單的槍械製造，為獵人提供霰彈槍和步槍</li>
+    <li>subject_story->專門從事簡單的槍械製作，為獵人提供霰彈槍和步槍</li>
     <li>subject_story->成為槍匠，在整個星區享有盛譽</li>
     <li>subject_gerund->槍械工藝</li>
     <li>subject_gerund->製作槍械</li>
@@ -368,7 +368,7 @@
     <li>subject_story->在推翻城鎮議會的圍攻行動時尤關重要</li>
     <li>subject_story->為當地警察開發了一種可折疊的輕型迫擊砲管</li>
     <li>subject_story->用迫擊彈從遠處拆除了許多廢棄建築物</li>
-    <li>subject_gerund->製造迫擊砲彈</li>
+    <li>subject_gerund->製作迫擊砲彈</li>
     <li>subject_gerund->建造簡單的攻城武器</li>
   </Mortars.generalRules.rulesStrings>
   
@@ -510,7 +510,7 @@
     <li>subject_story->設計了一款可以接收星際訊號的仿復古電視機</li>
     <li>subject_story->進入廣播業，專門為老式映像管電視製作節目</li>
     <li>subject_story->確保每個人都知道陰極射線管的危險</li>
-    <li>subject_gerund->製造映像管電視</li>
+    <li>subject_gerund->製作映像管電視</li>
   </TubeTelevision.generalRules.rulesStrings>
   
   <!-- EN: watermill generator -->
