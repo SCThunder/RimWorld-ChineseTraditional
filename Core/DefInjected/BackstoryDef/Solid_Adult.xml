@@ -386,12 +386,12 @@
   <ClanChief14.titleShort>大佬</ClanChief14.titleShort>
   
   <!-- EN: Harvesting the products of clone farms is mostly done by the clones themselves - particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars. -->
-  <CloneFarmer58.description>收穫克隆農場產品的工作大多是交給克隆人本身 ──── 特別是那些長袖善舞的個體。這個克隆人是其中之一，[PAWN_pronoun]最後逃出了農場、逃往外星球。</CloneFarmer58.description>
-  <CloneFarmer58.baseDesc>收穫克隆農場產品的工作大多是交給克隆人本身 ──── 特別是那些長袖善舞的個體。這個克隆人是其中之一，[PAWN_pronoun]最後逃出了農場、逃往外星球。</CloneFarmer58.baseDesc>
+  <CloneFarmer58.description>收穫複製農場產品的工作大多是交給複製人本身 ──── 特別是那些長袖善舞的個體。這個複製人是其中之一，[PAWN_pronoun]最後逃出了農場、逃往外星球。</CloneFarmer58.description>
+  <CloneFarmer58.baseDesc>收穫複製農場產品的工作大多是交給複製人本身 ──── 特別是那些長袖善舞的個體。這個複製人是其中之一，[PAWN_pronoun]最後逃出了農場、逃往外星球。</CloneFarmer58.baseDesc>
   <!-- EN: clone farmer -->
-  <CloneFarmer58.title>克隆農民</CloneFarmer58.title>
+  <CloneFarmer58.title>複製農民</CloneFarmer58.title>
   <!-- EN: cloner -->
-  <CloneFarmer58.titleShort>克隆人</CloneFarmer58.titleShort>
+  <CloneFarmer58.titleShort>複製人</CloneFarmer58.titleShort>
   
   <!-- EN: Applying the knowledge that [PAWN_pronoun] gained from years around fighters, [PAWN_pronoun] became a successful gladiator in the coliseum that [PAWN_pronoun] once cleaned. -->
   <ColiseumFighter22.description>運用[PAWN_pronoun]多年以來從鬥士身邊掌握的知識，[PAWN_nameDef]在這座[PAWN_pronoun]曾經打掃過得鬥技場上成為了一名成功的劍鬥士。</ColiseumFighter22.description>

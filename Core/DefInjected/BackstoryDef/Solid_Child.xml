@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-  <AbandonedChild30.description>[PAWN_nameDef]是一個機智、風趣的孩子。有一天，[PAWN_pronoun]和[PAWN_pronoun]富有的父母走散了，徹底迷失在一座看似從未啟用過的礦物倉庫。[PAWN_possessive]父母決定，與其花時間尋找[PAWN_pronoun]，倒不如直接用基因工程克隆一個更好的孩子。</AbandonedChild30.description>
-  <AbandonedChild30.baseDesc>[PAWN_nameDef]是一個機智、風趣的孩子。有一天，[PAWN_pronoun]和[PAWN_pronoun]富有的父母走散了，徹底迷失在一座看似從未啟用過的礦物倉庫。[PAWN_possessive]父母決定，與其花時間尋找[PAWN_pronoun]，倒不如直接用基因工程克隆一個更好的孩子。</AbandonedChild30.baseDesc>
+  <AbandonedChild30.description>[PAWN_nameDef]是一個機智、風趣的孩子。有一天，[PAWN_pronoun]和[PAWN_pronoun]富有的父母走散了，徹底迷失在一座看似從未啟用過的礦物倉庫。[PAWN_possessive]父母決定，與其花時間尋找[PAWN_pronoun]，倒不如直接用基因工程複製一個更好的孩子。</AbandonedChild30.description>
+  <AbandonedChild30.baseDesc>[PAWN_nameDef]是一個機智、風趣的孩子。有一天，[PAWN_pronoun]和[PAWN_pronoun]富有的父母走散了，徹底迷失在一座看似從未啟用過的礦物倉庫。[PAWN_possessive]父母決定，與其花時間尋找[PAWN_pronoun]，倒不如直接用基因工程複製一個更好的孩子。</AbandonedChild30.baseDesc>
   <!-- EN: abandoned child -->
   <AbandonedChild30.title>失蹤兒童</AbandonedChild30.title>
   <!-- EN: abandoned -->
@@ -441,12 +441,12 @@
   <ClassClown96.titleShort>開心果少年</ClassClown96.titleShort>
   
   <!-- EN: Clone children are seeded into nutrient-rich womb-vats and rapidly grown in a simmed universe. They're harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they're always disposable. -->
-  <CloneFarmed21.description>克隆幼體被置入富含有機物質的苗床中，並在虛擬的世界中迅速成長。他們成長到某個階段就會被收穫，有時作為食物，有時為了器官，有時被當作勞動力────唯一相同的是，他們都被稱為「免洗消耗品」。</CloneFarmed21.description>
-  <CloneFarmed21.baseDesc>克隆幼體被置入富含有機物質的苗床中，並在虛擬的世界中迅速成長。他們成長到某個階段就會被收穫，有時作為食物，有時為了器官，有時被當作勞動力────唯一相同的是，他們都被稱為「免洗消耗品」。</CloneFarmed21.baseDesc>
+  <CloneFarmed21.description>複製幼體被置入富含有機物質的苗床中，並在虛擬的世界中迅速成長。他們成長到某個階段就會被收穫，有時作為食物，有時為了器官，有時被當作勞動力────唯一相同的是，他們都被稱為「免洗消耗品」。</CloneFarmed21.description>
+  <CloneFarmed21.baseDesc>複製幼體被置入富含有機物質的苗床中，並在虛擬的世界中迅速成長。他們成長到某個階段就會被收穫，有時作為食物，有時為了器官，有時被當作勞動力────唯一相同的是，他們都被稱為「免洗消耗品」。</CloneFarmed21.baseDesc>
   <!-- EN: clone-farmed -->
-  <CloneFarmed21.title>克隆產品</CloneFarmed21.title>
+  <CloneFarmed21.title>複製產品</CloneFarmed21.title>
   <!-- EN: disposable -->
-  <CloneFarmed21.titleShort>克隆消耗品</CloneFarmed21.titleShort>
+  <CloneFarmed21.titleShort>複製消耗品</CloneFarmed21.titleShort>
   
   <!-- EN: During the 'Inner Destrian War' fallout, [PAWN_possessive] parents were captured and [PAWN_pronoun] was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing [PAWN_pronoun] ever knew. One night while cleaning the coliseum, [PAWN_possessive] family was murdered. -->
   <ColiseumCleaner54.description>在Destrian內戰期間，[PAWN_nameDef]的雙親被俘虜，而[PAWN_pronoun]則帶著奴隸的身份誕生。為了錢被迫清洗打鬥過後血腥不已的鬥技場，這裡就是[PAWN_pronoun]所認識的全世界，[PAWN_nameDef]觀察著、學習著、等待著。一天夜裡，當[PAWN_pronoun]正在清理鬥技場時，[PAWN_possessive]家人遭到殺害。</ColiseumCleaner54.description>
