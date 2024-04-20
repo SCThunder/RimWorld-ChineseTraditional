@@ -287,7 +287,7 @@
   <!-- EN: Accept quest -->
   <AcceptQuest>接受任務</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>接受{0_labelShort}</AcceptWith>
+  <AcceptWith>由{0_labelShort}接受</AcceptWith>
   <!-- EN: Accept for -->
   <AcceptQuestFor>接受</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
