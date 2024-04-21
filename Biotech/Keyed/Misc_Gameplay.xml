@@ -78,7 +78,7 @@
   <!-- EN: Loading mech gestation resources -->
   <LoadingMechGestator>填充機械培養資源</LoadingMechGestator>
   <!-- EN: Time left this cycle -->
-  <GestatingInspect>此療程剩餘時間</GestatingInspect>
+  <GestatingInspect>此程序剩餘時間</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
   <InitMechGestationCycle>啟動機械培養程序</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
