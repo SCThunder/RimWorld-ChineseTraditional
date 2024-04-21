@@ -307,11 +307,11 @@
   <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
   <CaptureEntityDesc>捕獲{0_definite}。必須將其限制在收容平台上。受到限制後，即可進行研究。</CaptureEntityDesc>
   <!-- EN: Cancel capture -->
-  <CancelCapture>無法捕獲</CancelCapture>
+  <CancelCapture>取消捕獲</CancelCapture>
   <!-- EN: Cancel capturing {0_definite}. -->
   <CancelCaptureDesc>取消捕獲{0_definite}。</CancelCaptureDesc>
   <!-- EN: ready to study -->
-  <ReadyToStudy>已準備研究</ReadyToStudy>
+  <ReadyToStudy>可以被研究</ReadyToStudy>
   <!-- EN: No active anomaly research project selected for {0} knowledge category. -->
   <NoActiveResearchProject>沒有為{0}知識類別所選的異邪研究項目。</NoActiveResearchProject>
   <!-- EN: Capturable -->
@@ -323,7 +323,7 @@
   <!-- EN: Transfer {0_definite} -->
   <TransferEntity>轉移{0_definite}</TransferEntity>
   <!-- EN: Transfer the contained entity to another holding platform. -->
-  <TransferEntityDesc>將控制的實體轉移到另一個收容平台。</TransferEntityDesc>
+  <TransferEntityDesc>將收容的實體轉移到另一個收容平台。</TransferEntityDesc>
   <!-- EN: Cancel transfer -->
   <CancelTransfer>取消轉移</CancelTransfer>
   <!-- EN: Cancel transferring this entity to another holding platform. -->
