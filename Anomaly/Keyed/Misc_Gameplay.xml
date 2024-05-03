@@ -384,6 +384,7 @@
   
   <!-- EN: Metalhorrors are parasites that control the host and use them to infect others.\n\nMetalhorrors grow stronger inside the host as time passes. A metalhorror will cut its way out of the host's body if it knows it's been detected. The process is horrifying, but the host generally survives.\n\nThe only way to confirm a person is infected with a metalhorror is to study the metalhorror's fleshy leavings to identify its biosignature, then use the surgical inspection operation with a trusted doctor.\n\nOnce discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
   <MetalhorrorNoticedDetailsAppended>懼金是能控制宿主並利用他們感染他人的寄生蟲。\n\n懼金會隨著時間在宿主體內成長。懼金在發覺被偵測到時，就會從宿主體內逃出。這個過程相當可怕，但宿主通常都能存活。\n\n要確認一個人是否感染了懼金，唯一的方法就是研究懼金留下的肉質殘留物，辨識其生物特徵，然後由值得信任的醫生進行外科檢查手術。\n\n一旦發現感染，可以進行檢查手術操作，使懼金從宿主體內現身。要記得做好戰鬥準備。</MetalhorrorNoticedDetailsAppended>
+
   
   <!-- EN: Gray flesh -->
   <LetterGrayFleshDiscoveredLabel>灰肉</LetterGrayFleshDiscoveredLabel>
@@ -534,10 +535,10 @@
   <MessageShardDropped>{0}掉落了黑暗遠古科技的碎片。你可以收集和使用它。</MessageShardDropped>
   
   <!-- Blood rain -->
-  <!-- EN: The blood rain has driven {0} into a berserk rage! -->
-  <Berserk_BloodRain>血雨使{0}陷入了狂暴！</Berserk_BloodRain>
-  <!-- EN: The blood rain has driven {0} into a manhunting rage! -->
-  <Manhunter_BloodRain>血雨使{0}陷入了殺戮衝動！</Manhunter_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
+  <Berserk_BloodRain>血雨使{0_nameIndef}陷入了狂暴！</Berserk_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
+  <Manhunter_BloodRain>血雨使{0_nameIndef}陷入了殺戮衝動！</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>這是因為血怒累積而造成的。</MentalBreakReason_BloodRage>
   
@@ -872,5 +873,19 @@
   <LetterChimerasAttackingLabel>奇美拉攻擊</LetterChimerasAttackingLabel>
   <!-- EN: The chimeras have begun their attack! -->
   <LetterChimerasAttacking>奇美拉已開始攻擊！</LetterChimerasAttacking>
-
+  
+  <!-- Anomaly event frequency -->
+  <!-- EN: No major threats -->
+  <AnomalyFrequency_None>無主要威脅</AnomalyFrequency_None>
+  <!-- EN: Very rare -->
+  <AnomalyFrequency_VeryRare>非常罕見</AnomalyFrequency_VeryRare>
+  <!-- EN: Rare -->
+  <AnomalyFrequency_Rare>罕見</AnomalyFrequency_Rare>
+  <!-- EN: Balanced -->
+  <AnomalyFrequency_Balanced>平衡</AnomalyFrequency_Balanced>
+  <!-- EN: Intense -->
+  <AnomalyFrequency_Intense>強烈</AnomalyFrequency_Intense>
+  <!-- EN: Overwhelming -->
+  <AnomalyFrequency_Overwhelming>湧現</AnomalyFrequency_Overwhelming>
+  
 </LanguageData>
