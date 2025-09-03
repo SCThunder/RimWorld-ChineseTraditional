@@ -25,6 +25,9 @@
   <!-- EN: inspecting TargetA. -->
   <InspectGravEngine.reportString>檢查TargetA</InspectGravEngine.reportString>
   
+  <!-- EN: leaving ship. -->
+  <LeaveShip.reportString>TODO</LeaveShip.reportString>
+  
   <!-- EN: operating TargetA. -->
   <PilotConsole.reportString>操作TargetA</PilotConsole.reportString>
   

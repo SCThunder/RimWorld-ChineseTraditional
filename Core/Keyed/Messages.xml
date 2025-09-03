@@ -859,8 +859,8 @@
   <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>{0_labelShort}可以再次破解。</MessageHackableUnlocked>
 
-  <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>無法呼叫太空梭</CannotCallShuttle>
+  <!-- EN: Shuttle cannot land here -->
+  <ShuttleCannotLand>TODO</ShuttleCannotLand>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>太空梭已抵達</MessageShuttleArrived>
 
@@ -868,6 +868,7 @@
   <MessageGroundPenetratingScannerNoBedrock>警告{THING_labelCap}將無法在此生態系運作。</MessageGroundPenetratingScannerNoBedrock>
 
   <!-- UNUSED -->
+  <CannotCallShuttle>無法呼叫太空梭</CannotCallShuttle>
   <MessageTransportPodsDestinationReservedBy>目的地已預留給{0}。</MessageTransportPodsDestinationReservedBy>
   <MessageTransportPodsDestinationReserved>目的地已被預留。</MessageTransportPodsDestinationReserved>
   <MessageFinishedLoadingTransporterSingle>太空梭的裝載工作完成。已經準備好發射。</MessageFinishedLoadingTransporterSingle>
