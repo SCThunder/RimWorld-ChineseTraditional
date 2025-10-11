@@ -514,12 +514,12 @@
   <CorpResearcher93.titleShort>研究員</CorpResearcher93.titleShort>
   
   <!-- EN: The glitterworld audience wasn't yet ready for [PAWN_nameDef]'s Vidtube series with all of its spanners and hammers and planners - that kind of work's for mechanoids, they said! Undeterred, [PAWN_pronoun] set out for the stars, in search of people who would appreciate [PAWN_possessive] skills. The wildlife out there looks scary, though... -->
-  <CosmeticReject64.description>流落街頭的[PAWN_nameDef]自願進入一所黑心整形實驗室以換取食物和住所。\n\n經歷了一番痛苦的整形過程後，[PAWN_pronoun]幾乎認不出鏡子裡的自己。[PAWN_nameDef]被迫替實驗室工作，直到有人將[PAWN_pronoun]救出。現在[PAWN_pronoun]完全沒有膽子反抗任何人。</CosmeticReject64.description>
-  <CosmeticReject64.baseDesc>流落街頭的[PAWN_nameDef]自願進入一所黑心整形實驗室以換取食物和住所。\n\n經歷了一番痛苦的整形過程後，[PAWN_pronoun]幾乎認不出鏡子裡的自己。[PAWN_nameDef]被迫替實驗室工作，直到有人將[PAWN_pronoun]救出。現在[PAWN_pronoun]完全沒有膽子反抗任何人。</CosmeticReject64.baseDesc>
+  <CosmeticReject64.description>閃耀世界的觀眾們還未能接受[PAWN_nameDef]在Vidtube上的連串扳手、鎚子和規劃的影片——他們說︰那些都應是機械們幹的活！而不屈不撓的[PAWN_pronoun]飛上天際，尋找欣賞[PAWN_possessive]技能的人。然而...外頭的野生動物們看起來真可怕...</CosmeticReject64.description>
+  <CosmeticReject64.baseDesc>閃耀世界的觀眾們還未能接受[PAWN_nameDef]在Vidtube上的連串扳手、鎚子和規劃的影片——他們說︰那些都應是機械們幹的活！而不屈不撓的[PAWN_pronoun]飛上天際，尋找欣賞[PAWN_possessive]技能的人。然而...外頭的野生動物們看起來真可怕...</CosmeticReject64.baseDesc>
   <!-- EN: traveling handywoman -->
-  <CosmeticReject64.title>整形失敗者</CosmeticReject64.title>
+  <CosmeticReject64.title>流浪女雜工</CosmeticReject64.title>
   <!-- EN: handywoman -->
-  <CosmeticReject64.titleShort>整形失敗者</CosmeticReject64.titleShort>
+  <CosmeticReject64.titleShort>女雜工</CosmeticReject64.titleShort>
   
   <!-- EN: [PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores. -->
   <CosmeticSurgeon36.description>[PAWN_nameDef]有一個惡劣的習性，常常逼迫[PAWN_possessive]病患接受整型手術，並靠這招撈了不少。\n\n[PAWN_pronoun]只需要專注在工作上，從來不需要操心家務事。</CosmeticSurgeon36.description>
